@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041133069878",
+    "project_id": "booker-ac1fe",
+    "storage_bucket": "booker-ac1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041133069878:android:f6ab7ef2368cfb901fda97",
+        "android_client_info": {
+          "package_name": "com.example.librarybooktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041133069878-77f3ulg375j7nnb4ekt19pt5ftggptd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2geppiSUr71elWGAWf8Bz2CLB2tn0aKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041133069878-77f3ulg375j7nnb4ekt19pt5ftggptd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
